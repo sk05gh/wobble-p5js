@@ -10,7 +10,7 @@ function preload(){
 }
 // line tutoiral
 function setup() {
-  createCanvas(800,800);
+  createCanvas(1530,650);
   
   
   //DECLARE
